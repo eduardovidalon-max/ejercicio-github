@@ -11,7 +11,7 @@ Aprender a crear y administrar un repositorio en GitHub y utilizar diferentes el
 - Eduardo Vidalon
 - Emily Chileno 
 - Handel Vicente
-- Yuri Atachagua
+- Han Yuri Atachagua
 - Jeremy 
 
 ## Estructura del proyecto
